@@ -3,8 +3,10 @@
 ## Overview of Project
 
 ### Purpose
+Using kickstarter database of successful and failed projects, the analysis will try to identify the best dates and funding goals for a project in the theatre category from Great Britain.
 
 ## Analysis and Challenges
+Analyzing the kickstarter projects based on their launch dates and funding goals will help the reader to take a decision on when to launch the project and how much to ask. 
 
 ### Analysis of Outcomes Based on Launch Date
 
