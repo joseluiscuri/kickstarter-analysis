@@ -30,18 +30,18 @@ In this case I found no challenge in the data. But the client may want to resear
 
 ## Results
 -  Conclusions of the Outcomes based on Launch Date
- - I recommend the client to launch the campaign in May (67% of success rate) or at least between February and September (average of 63% success rate).
- - I also reccomend not to launch the campaign between October and January because it has a 56% of success rate, December having the lowest success rate (49%).
+  - I recommend the client to launch the campaign in May (67% of success rate) or at least between February and September (average of 63% success rate).
+  - I also reccomend not to launch the campaign between October and January because it has a 56% of success rate, December having the lowest success rate (49%).
 
 - Conclusions about the Outcomes based on Goals
- - If the play needs low budget, I recommend to ask for a goal of less than $5,000 USD. If the play needs a lot of budget, I recommend to ask between $35,000 to $45,000 USD.
- - Both result above mentioned had an average of 70% success rate.
+  - If the play needs low budget, I recommend to ask for a goal of less than $5,000 USD. If the play needs a lot of budget, I recommend to ask between $35,000 to $45,000 USD.
+  - Both result above mentioned had an average of 70% success rate.
 
 - What are some limitations of this dataset?
- - There is not a lot of information about the themes of the projects in the theatre category (it only includes plays, spaces and musicals). This information could let me create a better analysis comparing same theme projects with my client's project. 
- - It doesn't show any marketing information like marketing expenses vs funded goal or overall visits to the project vs actual backers, backers reached the campaign by organic or paid search.
- - It is missing number of perks (and amount per perk) offered by the project
+  - There is not a lot of information about the themes of the projects in the theatre category (it only includes plays, spaces and musicals). This information could let me create a better analysis comparing same theme projects with my client's project. 
+  - It doesn't show any marketing information like marketing expenses vs funded goal or overall visits to the project vs actual backers, backers reached the campaign by organic or paid search.
+  - It is missing number of perks (and amount per perk) offered by the project
 
 - What are some other possible tables and/or graphs that we could create?
- - Add a filter to campaigns by countries.
- - Average donation of successful campaigns to analyze how much to ask per perk.
+  - Add a filter to campaigns by countries.
+  - Average donation of successful campaigns to analyze how much to ask per perk.
