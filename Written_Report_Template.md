@@ -10,7 +10,10 @@ Analyzing the kickstarter projects based on their launch dates and funding goals
 
 ### Analysis of Outcomes Based on Launch Date
 
+
 ### Analysis of Outcomes Based on Goals
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/25446419/109434771-79503e00-79dc-11eb-91f2-ca5a5c969119.png)
 
 ### Challenges and Difficulties Encountered
 
