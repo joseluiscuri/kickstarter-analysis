@@ -1,4 +1,4 @@
-# Kickstarting with Excel
+# Kickstarting with Excel - Berkeley 2021
 
 ## Overview of Project
 
