@@ -26,7 +26,7 @@ This analysis was made comparing the funding goals of the projects. I wanted to 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/25446419/109434771-79503e00-79dc-11eb-91f2-ca5a5c969119.png)
 
 ### Challenges and Difficulties Encountered
-In this case I found no challenge in the data. But the client may want to research more about the topic of the successfully funded theater projects
+In this case I found no challenge in the data,but I recommed to the client to research more about the theme of the successfully funded theater projects and their marketing campaign efforts.
 
 ## Results
 -  Conclusions of the Outcomes based on Launch Date
