@@ -33,7 +33,7 @@ In this case I found no challenge in the data. But the client may want to resear
    - I recommend the client to launch the campaign in May (67% of success rate) or at least between February and September (average of 63% success rate).
    - I also reccomend not to launch the campaign between October and January because it has a 56% of success rate, December having the lowest success rate (49%).
 
-- Conclusions about the Outcomes based on Goals
+- Conclusions of the Outcomes based on Goals
   - If the play needs low budget, I recommend to ask for a goal of less than $5,000 USD. If the play needs a lot of budget, I recommend to ask between $35,000 to $45,000 USD.
   - Both result above mentioned had an average of 70% success rate.
 
